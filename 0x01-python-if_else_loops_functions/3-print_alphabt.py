@@ -5,4 +5,4 @@ for i in range(ord('a'), ord('z') + 1):
         continue
     else:
         a += chr(i)
-print(f"{a}", end = "")
+print("{}".format(a), end = "")
