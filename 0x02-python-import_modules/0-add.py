@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 import add_0
-a = add_0.add(a,b)
-print("{}".format(a))
+a = 1
+b = 2
+print("{}".format(add_0.add(a, b)))
